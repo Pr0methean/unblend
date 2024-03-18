@@ -13,7 +13,7 @@ repository = "https://github.com/Longor1996/unblend"
 
 [dependencies]
 clap = { version = "4.4.6", features = ["derive"] }
-zip_next = { version = "0.10", default-features = false, features = [] }
+zip_next = { version = "0.11", default-features = false, features = [] }
 align-address = "0.1.0"
 globset = "0.4"
 tar = "0.4"
